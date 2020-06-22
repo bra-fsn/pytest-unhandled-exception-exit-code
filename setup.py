@@ -11,7 +11,7 @@ requirements = [
 
 setup(
     name='pytest-unhandled-exception-exit-code',
-    version='0.0.1',
+    version='0.0.2',
     description='Plugin for py.test set a different exit code on uncaught '
                 'exceptions',
     long_description=readme + '\n',
